@@ -1,3 +1,10 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwarda273216&label=Visitors%2FViews&countColor=%23263759)
+
+<p align ="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2599&pause=503&color=FF3A12&background=4EFF4100&width=435&lines=Its+Me -+WARDA+ISHAQ;Future+Software+Engineer;AI+Enthusiast;Leetcoder" alt="Typing SVG" />
+  </p>
+  
+
 # 💫 About Me:
 🚀 Aspiring Future  Software Engineer<br>📚 Currently pursuing Bachelor's degree in Software Engineering<br>🐍 Currently Learning Python and AI<br>🔥 Participating in different AI Hackathons & Workshops<br>🌱 Enthusiastic learner dedicated to continuous growth in full-stack development, Artificial intelligence, and problem-solving<br>💬 Feel free to ask me anything about software engineering, AI, or Leetcode!
 
